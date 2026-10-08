@@ -1,0 +1,8 @@
+{
+  "name": "Zois Car Service",
+  "description": "Εξειδικευμένο συνεργείο αυτοκινήτων στα Ιωάννινα. Υπηρεσίες υψηλής ακρίβειας, άμεση επικοινωνία, εξαιρετικές κριτικές Google και ακριβής τοποθεσία.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
